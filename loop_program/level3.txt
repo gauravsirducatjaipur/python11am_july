@@ -1,0 +1,50 @@
+WAP to print numbers from 1 to 10.
+WAP to print numbers from 10 to 1.
+WAP to print numbers from 1 to N.
+WAP to print numbers from N to 1.
+WAP to print all even numbers from 1 to N.
+WAP to print all odd numbers from 1 to N.
+WAP to print the multiplication table of a given number.
+WAP to print multiplication tables from 1 to 10.
+WAP to find the sum of first N natural numbers.
+WAP to find the sum of all even numbers from 1 to N.
+WAP to find the sum of all odd numbers from 1 to N.
+WAP to find the factorial of a number.
+WAP to calculate the power of a number without using the power function.
+WAP to count the total digits in a number.
+WAP to find the sum of digits of a number.
+WAP to find the product of digits of a number.
+WAP to reverse a number.
+WAP to check whether a number is a palindrome or not.
+WAP to check whether a number is an Armstrong number or not.
+WAP to check whether a number is a Strong number or not.
+WAP to check whether a number is a Perfect number or not.
+WAP to check whether a number is a Prime number or not.
+WAP to print all Prime numbers between 1 and N.
+WAP to count the total Prime numbers between 1 and N.
+WAP to find the largest digit in a number.
+WAP to find the smallest digit in a number.
+WAP to calculate the sum of squares of first N natural numbers.
+WAP to calculate the sum of cubes of first N natural numbers.
+WAP to print the Fibonacci series up to N terms.
+WAP to print the Fibonacci series up to a given number.
+WAP to find the Greatest Common Divisor (GCD) of two numbers using loops.
+WAP to find the Least Common Multiple (LCM) of two numbers using loops.
+WAP to print all factors of a given number.
+WAP to count the total factors of a given number.
+WAP to find the sum of all factors of a given number.
+WAP to check whether a number is a Perfect Square or not.
+WAP to print all Leap Years between two given years.
+WAP to calculate the average of N numbers entered by the user.
+WAP to find the largest number among N user-entered numbers.
+WAP to find the smallest number among N user-entered numbers.
+WAP to count positive, negative, and zero values entered by the user.
+WAP to display the ASCII values of characters from A to Z.
+WAP to display the ASCII values of characters from a to z.
+WAP to print alphabets from A to Z using a loop.
+WAP to print alphabets from Z to A using a loop.
+WAP to print all uppercase and lowercase alphabets using loops.
+WAP to print the following star pattern using loops.
+WAP to print the following number pattern using loops.
+WAP to print the following alphabet pattern using loops.
+WAP to implement a simple menu-driven calculator using loops.

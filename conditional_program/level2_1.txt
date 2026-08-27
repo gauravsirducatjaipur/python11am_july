@@ -1,0 +1,97 @@
+🔹 A. Basic Conditions
+
+Write a program to check whether a number is positive.
+
+Write a program to check whether a number is negative.
+
+Write a program to check whether a number is zero.
+
+Write a program to check whether a number is positive or negative.
+
+Write a program to check whether a number is even or odd.
+
+Write a program to check whether a number is divisible by 5.
+
+Write a program to check whether a number is divisible by both 2 and 3.
+
+Write a program to check whether a number is greater than 100.
+
+Write a program to check whether a number lies between 1 and 50.
+
+Write a program to check whether a number is a multiple of 10.
+
+🔹 B. Comparison Based
+
+Write a program to find the greater of two numbers.
+
+Write a program to find the smaller of two numbers.
+
+Write a program to check whether two numbers are equal.
+
+Write a program to check whether the first number is greater than the second.
+
+Write a program to check whether the first number is less than the second.
+
+🔹 C. Character & String Conditions
+
+Write a program to check whether a character is a vowel.
+
+Write a program to check whether a character is a consonant.
+
+Write a program to check whether a character is uppercase.
+
+Write a program to check whether a character is lowercase.
+
+Write a program to check whether a character is a digit.
+
+🔹 D. Marks / Grade Related (Simple)
+
+Write a program to check whether a student has passed (pass marks ≥ 40).
+
+Write a program to check whether a student has failed.
+
+Write a program to check whether marks are greater than 75.
+
+Write a program to check whether marks are between 50 and 60.
+
+Write a program to check whether marks are less than 35.
+
+🔹 E. Age / Eligibility
+
+Write a program to check whether a person is eligible to vote (age ≥ 18).
+
+Write a program to check whether a person is a minor.
+
+Write a program to check whether a person is eligible for driving license.
+
+Write a program to check whether a person is a senior citizen (age ≥ 60).
+
+Write a program to check whether age is between 13 and 19.
+
+🔹 F. Logical & Miscellaneous
+
+Write a program to check whether a year is greater than 2000.
+
+Write a program to check whether a number is a two-digit number.
+
+Write a program to check whether a number is a three-digit number.
+
+Write a program to check whether a number is divisible by 7.
+
+Write a program to check whether a number is less than or equal to 50.
+
+Write a program to check whether a string is empty.
+
+Write a program to check whether a string has more than 5 characters.
+
+Write a program to check whether the first character of a string is a vowel.
+
+Write a program to check whether a number is non-zero.
+
+Write a program to check whether a number is greater than or equal to another number.
+
+
+
+
+
+

@@ -1,0 +1,101 @@
+🔹 Level 2: Conditional Programs (Using only if or if-else)
+1. Check whether a number is positive.
+2. Check whether a number is negative.
+3. Check whether a number is zero.
+4. Check whether a number is even or odd.
+5. Check whether a number is divisible by 5.
+6. Check whether a number is divisible by 10.
+7. Check whether a person is eligible to vote (Age ≥ 18).
+8. Check whether a student passed or failed (Marks ≥ 33).
+9. Check whether salary is taxable (Salary > 700000).
+10. Check whether a person is a senior citizen (Age ≥ 60).
+11. Find the greater of two numbers.
+12. Find the smaller of two numbers.
+13. Compare two numbers (Equal or Not Equal).
+14. Compare two strings (Equal or Not).
+15. Compare two characters.
+16. Check whether a character is uppercase.
+17. Check whether a character is lowercase.
+18. Check whether a character is a digit.
+19. Check whether a character is an alphabet.
+20. Check whether a character is a vowel (using multiple if statements, not nested).
+21. Check whether a year is greater than 2000.
+22. Check whether temperature is above boiling point (100°C).
+23. Check whether temperature is below freezing point.
+24. Check whether water is boiling or not.
+25. Check whether BMI is above normal.
+26. Check whether a shopping amount qualifies for free delivery.
+27. Apply flat discount if bill is above ₹5000.
+28. Check whether GST should be added.
+29. Check whether coupon is applicable.
+30. Check whether product is in stock.
+31. Check login password (Correct/Incorrect).
+32. Check PIN number.
+33. Check OTP.
+34. Check username.
+35. Check whether email is verified.
+36. Check whether movie ticket booking is allowed (Age ≥ 18).
+37. Check whether driving license can be applied (Age ≥ 18).
+38. Check whether passport application is allowed (Age ≥ 18).
+39. Check whether a train seat is available.
+40. Check whether flight baggage exceeds the limit.
+41. Check whether electricity units exceed 100.
+42. Check whether internet data limit is crossed.
+43. Check whether mobile battery is low (<20%).
+44. Check whether laptop battery is fully charged.
+45. Check whether storage is full.
+46. Check whether exam fee is paid.
+47. Check whether assignment is submitted.
+48. Check whether attendance is sufficient (≥75%).
+49. Check whether project is completed.
+50. Check whether library book is returned.
+51. Check whether bank balance is sufficient.
+52. Check whether ATM withdrawal is possible.
+53. Check whether account is active.
+54. Check whether minimum balance is maintained.
+55. Check whether loan is approved (Simple condition).
+56. Check whether speed exceeds speed limit.
+57. Check whether seat belt is fastened.
+58. Check whether helmet is worn.
+59. Check whether fuel level is low.
+60. Check whether parking slot is occupied.
+61. Check whether today's attendance is present.
+62. Check whether employee is on leave.
+63. Check whether office is open.
+64. Check whether meeting room is available.
+65. Check whether ID card is valid.
+66. Check whether a number is a multiple of 3.
+67. Check whether a number is a multiple of 7.
+68. Check whether a number is greater than 100.
+69. Check whether a number is less than 50.
+70. Check whether a number equals 100.
+71. Check whether marks are exactly 100.
+72. Check whether age is exactly 18.
+73. Check whether quantity is zero.
+74. Check whether salary is exactly ₹50000.
+75. Check whether bill amount is exactly ₹1000.
+76. Check whether character entered is A.
+77. Check whether month number is January (1).
+78. Check whether day number is Sunday (1).
+79. Check whether gender is Male (M).
+80. Check whether status is Active (1).
+81. Check whether file exists (simulate using 0/1).
+82. Check whether internet is connected (0/1).
+83. Check whether Bluetooth is ON.
+84. Check whether Wi-Fi is ON.
+85. Check whether GPS is enabled.
+86. Check whether exam form is filled.
+87. Check whether hostel fee is paid.
+88. Check whether bus pass is valid.
+89. Check whether ID proof is uploaded.
+90. Check whether profile is complete.
+91. Check whether order is delivered.
+92. Check whether payment is successful.
+93. Check whether coupon is expired.
+94. Check whether membership is active.
+95. Check whether subscription is expired.
+96. Check whether light is ON.
+97. Check whether fan is ON.
+98. Check whether door is locked.
+99. Check whether alarm is active.
+100. Check whether camera is connected.
