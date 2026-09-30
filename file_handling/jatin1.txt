@@ -1,0 +1,2 @@
+Now the file has some other content!
+Hello user
